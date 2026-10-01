@@ -1,0 +1,31 @@
+sku,item_name,location_id,quantity,last_updated
+SKU-RICE-01,Basmati Rice 5kg,B03,22,2026-10-01 12:14:55
+SKU-RICE-02,Sona Masoori Rice 1kg,A05,18,2026-10-01 12:14:55
+SKU-OIL-01,Sunflower Cooking Oil 1L,A06,14,2026-10-01 12:14:55
+SKU-OIL-02,Extra Virgin Olive Oil 500ml,A05,26,2026-10-01 12:14:55
+SKU-FLOUR-01,Whole Wheat Atta 5kg,A03,39,2026-10-01 12:14:55
+SKU-PULSE-01,Toor Dal 1kg,A06,23,2026-10-01 12:14:55
+SKU-SUGAR-01,Refined White Sugar 1kg,A02,32,2026-10-01 12:14:55
+SKU-SALT-01,Iodized Table Salt 1kg,A05,32,2026-10-01 12:14:55
+SKU-BISC-01,Digestive Wheat Biscuits 200g,B03,14,2026-10-01 12:14:55
+SKU-BISC-02,Chocolate Cream Cookies 150g,A02,38,2026-10-01 12:14:55
+SKU-CHIP-01,Salted Potato Crisps 90g,D03,40,2026-10-01 12:14:55
+SKU-CHIP-02,Spicy Tortilla Chips 150g,B02,19,2026-10-01 12:14:55
+SKU-SODA-01,Sparkling Cola 500ml,B06,10,2026-10-01 12:14:55
+SKU-JUICE-01,Cold Pressed Orange Juice 1L,C02,36,2026-10-01 12:14:55
+SKU-TEA-01,Assam Black Tea Bags 100pk,B02,37,2026-10-01 12:14:55
+SKU-FRUIT-01,Fresh Royal Gala Apples 1kg,D02,11,2026-10-01 12:14:55
+SKU-FRUIT-02,Cavendish Bananas 6pk,C03,39,2026-10-01 12:14:55
+SKU-VEG-01,Red Onions 1kg,E03,23,2026-10-01 12:14:55
+SKU-VEG-02,Farm Fresh Potatoes 2kg,E06,22,2026-10-01 12:14:55
+SKU-VEG-03,Vine Ripe Tomatoes 500g,C02,19,2026-10-01 12:14:55
+SKU-MILK-01,Pasteurized Whole Milk 1L,D02,29,2026-10-01 12:14:55
+SKU-MILK-02,Skimmed Almond Milk 1L,B02,35,2026-10-01 12:14:55
+SKU-EGG-01,Farm Fresh White Eggs 12pk,D05,37,2026-10-01 12:14:55
+SKU-EGG-02,Free Range Brown Eggs 6pk,C06,17,2026-10-01 12:14:55
+SKU-BREAD-01,Artisan Sourdough Bread 400g,D04,25,2026-10-01 12:14:55
+SKU-BUTTER-01,Salted Creamery Butter 250g,D04,23,2026-10-01 12:14:55
+SKU-FROZ-01,Green Peas Frozen 500g,E06,24,2026-10-01 12:14:55
+SKU-FROZ-02,Mixed Berries Frozen 400g,E04,37,2026-10-01 12:14:55
+SKU-ICE-01,Vanilla Bean Ice Cream 500ml,E03,21,2026-10-01 12:14:55
+SKU-ICE-02,Belgian Dark Chocolate Tub 500ml,E02,23,2026-10-01 12:14:55

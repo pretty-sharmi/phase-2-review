@@ -1,0 +1,33 @@
+location_id,location_name,zone,aisle,shelf,location_type,capacity,active,active_status
+A01,Dry Grocery Shelf A01,Dry Grocery,A,1,Ambient Shelf,150,1,Active
+A02,Dry Grocery Shelf A02,Dry Grocery,A,2,Ambient Shelf,150,1,Active
+A03,Dry Grocery Shelf A03,Dry Grocery,A,3,Ambient Shelf,150,1,Active
+A04,Dry Grocery Shelf A04,Dry Grocery,A,4,Ambient Shelf,150,1,Active
+A05,Dry Grocery Shelf A05,Dry Grocery,A,5,Ambient Shelf,150,1,Active
+A06,Dry Grocery Shelf A06,Dry Grocery,A,6,Ambient Shelf,150,1,Active
+B01,Snacks & Beverages Shelf B01,Snacks & Beverages,B,1,Ambient Shelf,150,1,Active
+B02,Snacks & Beverages Shelf B02,Snacks & Beverages,B,2,Ambient Shelf,150,1,Active
+B03,Snacks & Beverages Shelf B03,Snacks & Beverages,B,3,Ambient Shelf,150,1,Active
+B04,Snacks & Beverages Shelf B04,Snacks & Beverages,B,4,Ambient Shelf,150,1,Active
+B05,Snacks & Beverages Shelf B05,Snacks & Beverages,B,5,Ambient Shelf,150,1,Active
+B06,Snacks & Beverages Shelf B06,Snacks & Beverages,B,6,Ambient Shelf,150,1,Active
+C01,Fresh Produce Shelf C01,Fresh Produce,C,1,Chilled Bin,150,1,Active
+C02,Fresh Produce Shelf C02,Fresh Produce,C,2,Chilled Bin,150,1,Active
+C03,Fresh Produce Shelf C03,Fresh Produce,C,3,Chilled Bin,150,1,Active
+C04,Fresh Produce Shelf C04,Fresh Produce,C,4,Chilled Bin,150,1,Active
+C05,Fresh Produce Shelf C05,Fresh Produce,C,5,Chilled Bin,150,1,Active
+C06,Fresh Produce Shelf C06,Fresh Produce,C,6,Chilled Bin,150,1,Active
+D01,Dairy & Eggs Shelf D01,Dairy & Eggs,D,1,Refrigerated Rack,150,1,Active
+D02,Dairy & Eggs Shelf D02,Dairy & Eggs,D,2,Refrigerated Rack,150,1,Active
+D03,Dairy & Eggs Shelf D03,Dairy & Eggs,D,3,Refrigerated Rack,150,1,Active
+D04,Dairy & Eggs Shelf D04,Dairy & Eggs,D,4,Refrigerated Rack,150,1,Active
+D05,Dairy & Eggs Shelf D05,Dairy & Eggs,D,5,Refrigerated Rack,150,1,Active
+D06,Dairy & Eggs Shelf D06,Dairy & Eggs,D,6,Refrigerated Rack,150,1,Active
+E01,Frozen Foods Shelf E01,Frozen Foods,E,1,Deep Freezer,150,1,Active
+E02,Frozen Foods Shelf E02,Frozen Foods,E,2,Deep Freezer,150,1,Active
+E03,Frozen Foods Shelf E03,Frozen Foods,E,3,Deep Freezer,150,1,Active
+E04,Frozen Foods Shelf E04,Frozen Foods,E,4,Deep Freezer,150,1,Active
+E05,Frozen Foods Shelf E05,Frozen Foods,E,5,Deep Freezer,150,1,Active
+E06,Frozen Foods Shelf E06,Frozen Foods,E,6,Deep Freezer,150,1,Active
+X99,Quarantine / Maintenance Bay,Maintenance,X,99,Quarantine,0,0,Inactive
+Z99,Decommissioned Cold Bay,Maintenance,Z,99,Deep Freezer,0,0,Inactive
