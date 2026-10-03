@@ -1,28 +1,28 @@
 failure_id,order_id,sku,expected_location_id,expected_location,timestamp,status,resolved_status,reason
-PF-500,ORD-2026-8000,SKU-RICE-01,B03,B03,2026-10-01 11:12:55,unresolved,unresolved,Item missing at expected shelf during fast order pick
-PF-501,ORD-2026-8002,SKU-OIL-01,A06,A06,2026-10-01 08:05:55,unresolved,unresolved,Item missing at expected shelf during fast order pick
-PF-502,ORD-2026-8003,SKU-OIL-02,A05,A05,2026-10-01 09:45:55,unresolved,unresolved,Item missing at expected shelf during fast order pick
-PF-503,ORD-2026-8004,SKU-FLOUR-01,A03,A03,2026-10-01 10:11:55,unresolved,unresolved,Item missing at expected shelf during fast order pick
-PF-504,ORD-2026-9004,SKU-FLOUR-01,A03,A03,2026-10-01 08:11:55,unresolved,unresolved,Repeated missing stock failure on back-to-back orders
-PF-505,ORD-2026-8005,SKU-PULSE-01,A06,A06,2026-10-01 08:58:55,unresolved,unresolved,Item missing at expected shelf during fast order pick
-PF-506,ORD-2026-8006,SKU-SUGAR-01,A02,A02,2026-10-01 08:23:55,unresolved,unresolved,Item missing at expected shelf during fast order pick
-PF-507,ORD-2026-8007,SKU-SALT-01,A05,A05,2026-10-01 06:17:55,unresolved,unresolved,Item missing at expected shelf during fast order pick
-PF-508,ORD-2026-8008,SKU-BISC-01,B03,B03,2026-10-01 07:16:55,unresolved,unresolved,Item missing at expected shelf during fast order pick
-PF-509,ORD-2026-8009,SKU-BISC-02,A02,A02,2026-10-01 11:39:55,unresolved,unresolved,Item missing at expected shelf during fast order pick
-PF-510,ORD-2026-8011,SKU-CHIP-02,B02,B02,2026-10-01 07:40:55,unresolved,unresolved,Item missing at expected shelf during fast order pick
-PF-511,ORD-2026-8012,SKU-SODA-01,B06,B06,2026-10-01 10:44:55,unresolved,unresolved,Item missing at expected shelf during fast order pick
-PF-512,ORD-2026-8013,SKU-JUICE-01,C02,C02,2026-10-01 09:53:55,unresolved,unresolved,Item missing at expected shelf during fast order pick
-PF-513,ORD-2026-8014,SKU-TEA-01,B02,B02,2026-10-01 08:40:55,unresolved,unresolved,Item missing at expected shelf during fast order pick
-PF-514,ORD-2026-8015,SKU-FRUIT-01,D02,D02,2026-10-01 07:23:55,unresolved,unresolved,Item missing at expected shelf during fast order pick
-PF-515,ORD-2026-8016,SKU-FRUIT-02,C03,C03,2026-10-01 11:46:55,unresolved,unresolved,Item missing at expected shelf during fast order pick
-PF-516,ORD-2026-8018,SKU-VEG-02,E06,E06,2026-10-01 10:06:55,unresolved,unresolved,Item missing at expected shelf during fast order pick
-PF-517,ORD-2026-9018,SKU-VEG-02,E06,E06,2026-10-01 08:06:55,unresolved,unresolved,Repeated missing stock failure on back-to-back orders
-PF-518,ORD-2026-8021,SKU-MILK-02,B02,B02,2026-10-01 10:35:55,unresolved,unresolved,Item missing at expected shelf during fast order pick
-PF-519,ORD-2026-8022,SKU-EGG-01,D05,D05,2026-10-01 11:06:55,unresolved,unresolved,Item missing at expected shelf during fast order pick
-PF-520,ORD-2026-8023,SKU-EGG-02,C06,C06,2026-10-01 11:12:55,unresolved,unresolved,Item missing at expected shelf during fast order pick
-PF-521,ORD-2026-8024,SKU-BREAD-01,D04,D04,2026-10-01 06:22:55,unresolved,unresolved,Item missing at expected shelf during fast order pick
-PF-522,ORD-2026-8025,SKU-BUTTER-01,D04,D04,2026-10-01 10:46:55,unresolved,unresolved,Item missing at expected shelf during fast order pick
-PF-523,ORD-2026-8026,SKU-FROZ-01,E06,E06,2026-10-01 11:08:55,unresolved,unresolved,Item missing at expected shelf during fast order pick
-PF-524,ORD-2026-8027,SKU-FROZ-02,E04,E04,2026-10-01 08:43:55,unresolved,unresolved,Item missing at expected shelf during fast order pick
-PF-525,ORD-2026-8028,SKU-ICE-01,E03,E03,2026-10-01 07:03:55,unresolved,unresolved,Item missing at expected shelf during fast order pick
-PF-526,ORD-2026-8029,SKU-ICE-02,E02,E02,2026-10-01 06:27:55,unresolved,unresolved,Item missing at expected shelf during fast order pick
+PF-500,ORD-2026-8000,SKU-RICE-01,B03,B03,2026-10-03 19:42:33,unresolved,unresolved,Item missing at expected shelf during fast order pick
+PF-501,ORD-2026-8002,SKU-OIL-01,A06,A06,2026-10-03 16:35:33,unresolved,unresolved,Item missing at expected shelf during fast order pick
+PF-502,ORD-2026-8003,SKU-OIL-02,A05,A05,2026-10-03 18:15:33,unresolved,unresolved,Item missing at expected shelf during fast order pick
+PF-503,ORD-2026-8004,SKU-FLOUR-01,A03,A03,2026-10-03 18:41:33,unresolved,unresolved,Item missing at expected shelf during fast order pick
+PF-504,ORD-2026-9004,SKU-FLOUR-01,A03,A03,2026-10-03 16:41:33,unresolved,unresolved,Repeated missing stock failure on back-to-back orders
+PF-505,ORD-2026-8005,SKU-PULSE-01,A06,A06,2026-10-03 17:28:33,unresolved,unresolved,Item missing at expected shelf during fast order pick
+PF-506,ORD-2026-8006,SKU-SUGAR-01,A02,A02,2026-10-03 16:53:33,unresolved,unresolved,Item missing at expected shelf during fast order pick
+PF-507,ORD-2026-8007,SKU-SALT-01,A05,A05,2026-10-03 14:47:33,unresolved,unresolved,Item missing at expected shelf during fast order pick
+PF-508,ORD-2026-8008,SKU-BISC-01,B03,B03,2026-10-03 15:46:33,unresolved,unresolved,Item missing at expected shelf during fast order pick
+PF-509,ORD-2026-8009,SKU-BISC-02,A02,A02,2026-10-03 20:09:33,unresolved,unresolved,Item missing at expected shelf during fast order pick
+PF-510,ORD-2026-8011,SKU-CHIP-02,B02,B02,2026-10-03 16:10:33,unresolved,unresolved,Item missing at expected shelf during fast order pick
+PF-511,ORD-2026-8012,SKU-SODA-01,B06,B06,2026-10-03 19:14:33,unresolved,unresolved,Item missing at expected shelf during fast order pick
+PF-512,ORD-2026-8013,SKU-JUICE-01,C02,C02,2026-10-03 18:23:33,unresolved,unresolved,Item missing at expected shelf during fast order pick
+PF-513,ORD-2026-8014,SKU-TEA-01,B02,B02,2026-10-03 17:10:33,unresolved,unresolved,Item missing at expected shelf during fast order pick
+PF-514,ORD-2026-8015,SKU-FRUIT-01,D02,D02,2026-10-03 15:53:33,unresolved,unresolved,Item missing at expected shelf during fast order pick
+PF-515,ORD-2026-8016,SKU-FRUIT-02,C03,C03,2026-10-03 20:16:33,unresolved,unresolved,Item missing at expected shelf during fast order pick
+PF-516,ORD-2026-8018,SKU-VEG-02,E06,E06,2026-10-03 18:36:33,unresolved,unresolved,Item missing at expected shelf during fast order pick
+PF-517,ORD-2026-9018,SKU-VEG-02,E06,E06,2026-10-03 16:36:33,unresolved,unresolved,Repeated missing stock failure on back-to-back orders
+PF-518,ORD-2026-8021,SKU-MILK-02,B02,B02,2026-10-03 19:05:33,unresolved,unresolved,Item missing at expected shelf during fast order pick
+PF-519,ORD-2026-8022,SKU-EGG-01,D05,D05,2026-10-03 19:36:33,unresolved,unresolved,Item missing at expected shelf during fast order pick
+PF-520,ORD-2026-8023,SKU-EGG-02,C06,C06,2026-10-03 19:42:33,unresolved,unresolved,Item missing at expected shelf during fast order pick
+PF-521,ORD-2026-8024,SKU-BREAD-01,D04,D04,2026-10-03 14:52:33,unresolved,unresolved,Item missing at expected shelf during fast order pick
+PF-522,ORD-2026-8025,SKU-BUTTER-01,D04,D04,2026-10-03 19:16:33,unresolved,unresolved,Item missing at expected shelf during fast order pick
+PF-523,ORD-2026-8026,SKU-FROZ-01,E06,E06,2026-10-03 19:38:33,unresolved,unresolved,Item missing at expected shelf during fast order pick
+PF-524,ORD-2026-8027,SKU-FROZ-02,E04,E04,2026-10-03 17:13:33,unresolved,unresolved,Item missing at expected shelf during fast order pick
+PF-525,ORD-2026-8028,SKU-ICE-01,E03,E03,2026-10-03 15:33:33,unresolved,unresolved,Item missing at expected shelf during fast order pick
+PF-526,ORD-2026-8029,SKU-ICE-02,E02,E02,2026-10-03 14:57:33,unresolved,unresolved,Item missing at expected shelf during fast order pick
